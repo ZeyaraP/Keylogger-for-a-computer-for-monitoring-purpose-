@@ -1,0 +1,2 @@
+-the keylogger is in dist file in exe form
+-this keylogger is for single computer like i run this code in my computer then i'll run only in this computer and will create file in the same computer that contains keystorkessss..
